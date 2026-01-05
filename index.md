@@ -90,7 +90,7 @@ Meaning is not essence but **accumulation**.
 Alexander’s basin integrates raindrops for a time,
 then drains into loam,
 then into a bung-hole.
-The constant \( C_x \) is not immortality—it is reuse.
+The constant $C_x$ is not immortality—it is reuse.
 
 ---
 
@@ -153,7 +153,7 @@ only mistaking temporary basins for final truths.
 
 Hamlet simply looks all the way down the gradient.
 
-# 02-A
+# [02-A](https://ukb-dt.github.io/era/)
 This is one of Shakespeare's most powerful meditations on mortality—the graveyard scene from *Hamlet*. What strikes me most is how it moves through different registers of confronting death.
 
 It starts intensely personal with Yorick. Hamlet isn't contemplating death abstractly; he's holding the skull of someone he loved, someone who made him laugh as a child. The specificity—"those lips that I have kiss'd I know not how oft"—makes the loss visceral. All of Yorick's vitality, his jokes and songs, reduced to this grinning skull.
