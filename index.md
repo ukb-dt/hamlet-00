@@ -80,7 +80,7 @@ Life is not the main trajectory but the **off-axis perturbation**:
 smell, nausea, disgust, laughter.
 “Pah!”
 The second derivative appears as instability—existential curvature.
-Local maxima (glory, empire) reveal themselves as fragile ridges.
+Local maxima (glory, empire) reveal themselves as fragile [ridges](https://ukb-dt.github.io/kitusuru/).
 
 $$
 \int E_x \, dt + \epsilon_x t + C_x \quad \text{Meaning}
