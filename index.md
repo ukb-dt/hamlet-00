@@ -90,7 +90,7 @@ Meaning is not essence but **accumulation**.
 Alexander’s basin integrates raindrops for a time,
 then drains into loam,
 then into a bung-hole.
-The constant $C_x$ is not immortality—it is reuse.
+The constant $C_x$ is not immortality—it is (*Ubuntu or Ecosystems*).
 
 ---
 
