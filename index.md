@@ -214,7 +214,7 @@ Horatio tries to pump the brakes ("'Twere to consider too curiously"), but Hamle
 The speech captures Hamlet's essential character: brilliant, obsessive, unable to leave painful thoughts alone. He intellectualizes grief until it becomes both more and less bearable. And then—"But soft! but soft! aside!"—reality interrupts, as it always does.
 
 What prompted you to share this passage?
-# 03-G
+# [03-G](https://ukb-dt.github.io/tragedy-00/)
 This is arguably one of the most iconic moments in the English language—Hamlet in the graveyard, staring into the face of his childhood companion. While often quoted, the passage is much more than just "Alas, poor Yorick." It represents a profound psychological pivot point for Hamlet.
 
 Here are a few layers worth unpacking in this specific excerpt:
