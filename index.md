@@ -38,7 +38,7 @@ What makes the passage endure is that it’s funny, revolting, and lucid at the 
 Hamlet doesn’t despair in this scene. He **clarifies**. Once you see that even Alexander ends up sealing a beer barrel, you’re freed from confusing local maxima—power, fame, legacy—with the landscape itself. The king enters right after, which is perfect timing: a reminder that authority walks on stage unaware it’s already halfway to masonry.
 
 
-# 01
+# [01](https://ukb-dt.github.io/pfc-05)
 ### HAMLET (Yorick → Alexander → Caesar) through the **UKB Pentadic / SGD Lens**
 
 What Hamlet performs at the grave is not lamentation but **energy accounting**.
